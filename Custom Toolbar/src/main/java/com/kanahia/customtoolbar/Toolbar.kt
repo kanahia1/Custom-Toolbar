@@ -16,7 +16,7 @@ public class Toolbar @JvmOverloads constructor(
     attrs: AttributeSet? = null,
     defStyleAttr: Int = 0
 ) : View(context, attrs, defStyleAttr) {
-    // val background = ColorDrawable()
+    val background = ColorDrawable()
     var items = 6
     var paddings = 5
     private var selectedItem = 0
