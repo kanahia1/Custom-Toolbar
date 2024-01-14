@@ -1,3 +1,3 @@
 ﻿# Custom-Toolbar
 
-It is custom toolbar which minimal
+It is custom toolbar which is minimal
